@@ -105,6 +105,7 @@ def topics_covered(transcript):
 
 def database():
     result = []
+    video_to_audio("vid.mp4")
     transcript = get_large_audio_transcription("audio.wav")
     summ = summary(transcript)
     imp_topics = topics_covered(transcript)
