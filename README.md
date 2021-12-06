@@ -1,6 +1,6 @@
 # ModzEd
 
-Try out the [App]()
+Try out the [App](https://modzed.herokuapp.com/)
 
 
 ## Inspiration
@@ -42,6 +42,17 @@ Run the app
 
 ```
 python app.py
+```
+
+###Important Note
+This application is working on prefetched data generated using the modzy models but it is capable to provide results for any other video too.
+
+Steps: 
+
+Provide the path of the downloaded video in process.py and then Run using
+
+```
+python process.py
 ```
 
 
