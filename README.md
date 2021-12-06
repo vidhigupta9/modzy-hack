@@ -44,7 +44,7 @@ Run the app
 python app.py
 ```
 
-###Important Note
+### Important Note
 This application is working on prefetched data generated using the modzy models but it is capable to provide results for any other video too.
 
 Steps: 
