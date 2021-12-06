@@ -1,0 +1,26 @@
+,0
+0,Take is very important and common data structure let's take a look at it. Linked list over array stack is linear data structure which contains a group of elements those elements are stuck on top of each other like a physical objects. If you want to add a new element to the top of the stack will use the push function if you want to remove the most recent element we will use the pop function. As you can see last element to be added will be the first to come off. In the first element where it will be lost. This is called life for which stands for last in first out. Take his also other functions with speak you can access element on soap without modifying the stag. We can also ask in the stack is empty for how many elements it contains. Because of this text structure it is often implemented as a singly linked list in a pointer to report element. We could use also agree but since array is stack data structure exceeding the array size would cause the stack overflow. Swachhata destructs application. Thanks can be used for web browser history for to implement undo redo functionality thanks for watching. You enjoyed this video. Please hit the like button and don't forget to subscribe to see more videos like this in future. 
+1,Linked list over array stack is linear data structure. The stack will use the push function if you want to remove the pop function. As you can see last element to be added will be the first to come off. Because of this text structure it is often implemented as a singly to report element.
+2,"['data', 'software', 'systems', 'information', 'user', 'web', 'file', 'version', 'application', 'code']"
+3,"[ApiObject({
+  ""duration"": 0.6,
+  ""start_time "": 14.38,
+  ""word"": ""structure""
+}), ApiObject({
+  ""duration"": 0.3,
+  ""start_time "": 19.08,
+  ""word"": ""stuck""
+}), ApiObject({
+  ""duration"": 0.5,
+  ""start_time "": 63.82,
+  ""word"": ""structure""
+}), ApiObject({
+  ""duration"": 0.94,
+  ""start_time "": 74.5,
+  ""word"": ""structure""
+}), ApiObject({
+  ""duration"": 0.3,
+  ""start_time "": 78.06,
+  ""word"": ""sack""
+})]"
+4,a person is cooking his kichen
